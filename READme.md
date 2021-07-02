@@ -53,8 +53,6 @@
 
 ---
 
-<img align="left" alt="Ptrlrd's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ptrlrd&show_icons=true&hide_border=true" />
-
 [website]: https://ptrlrd.com
 [twitter]: https://twitter.com/ptrlrd
 [instagram]: https://instagram.com/ptrlrd
