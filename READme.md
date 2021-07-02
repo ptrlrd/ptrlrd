@@ -51,8 +51,6 @@
 - [Whos the fuck is Peter Lord?](https://medium.com/@ptrlrd/who-the-fuck-is-peter-c1bee7f23866)
 <!-- BLOG-POST-LIST:END -->
 
----
-
 [website]: https://ptrlrd.com
 [twitter]: https://twitter.com/ptrlrd
 [instagram]: https://instagram.com/ptrlrd
