@@ -18,7 +18,7 @@
 - [Personal Website][website]
 - [Twitter][twitter]
 - [LinkedIn][linkedin]
-- [Send me an email][instagram]
+- [Send me an email][email]
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
