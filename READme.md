@@ -8,15 +8,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="ptrlrd.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="ptrlrd | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="ptrlrd | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ptrlrd | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
----
-
+- [Personal Website][website]
+- [Twitter][twitter]
+- [LinkedIn][linkedin]
+- [Send me an email][instagram]
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
@@ -27,3 +22,4 @@
 [twitter]: https://twitter.com/ptrlrd
 [instagram]: https://instagram.com/ptrlrd
 [linkedin]: https://linkedin.com/in/ptrlrd
+[email]: inquiry@ptrlrd.com
