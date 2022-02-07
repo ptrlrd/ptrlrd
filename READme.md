@@ -18,7 +18,7 @@
 - [Personal Website][website]
 - [Twitter][twitter]
 - [LinkedIn][linkedin]
-- [Send me an email][email]
+- Send me an email @ inquiry@ptrlrd.com
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
