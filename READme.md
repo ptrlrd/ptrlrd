@@ -1,10 +1,17 @@
 ### 👋 Hi, I am Peter Lord
 
-## I'm a gamer, cycler, and cat-dad
-- 🔭 I’m currently learning more about Vue 3, Nuxt, and JavaScript
-- 🌱 I am currently a Front End Developer @ Rooster Grin Media
-- 👯 I’m looking to chat with people that are currently learning new things!
-- 🥅 2022 Goals: Refactor and re-release a couple projects
+## Personal Life:
+- Resides in the Bay Area
+- Happily married
+- Mechanical Keyboard enthusiast 
+- Cat dad to Quinn and Valor
+
+## Work Life:
+- Learning more about Vue 3, Nuxt, and JavaScript
+- Front End Developer @ [Rooster Grin Media][roostergrin]
+- Some Skills I am using at Rooster Grin are HTML, CSS, JavaScript, Vue, Nuxt, and AWS
+- Always available for collaboration or helping with Open Source Projects
+- 2022 Goals: Refactor existing projects and learn more about backend development & developer operations
 
 ### Connect with me:
 
@@ -23,3 +30,4 @@
 [instagram]: https://instagram.com/ptrlrd
 [linkedin]: https://linkedin.com/in/ptrlrd
 [email]: inquiry@ptrlrd.com
+[roostergrin]: https://www.roostergrin.com/
