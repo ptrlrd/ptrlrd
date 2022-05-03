@@ -30,4 +30,4 @@
 [instagram]: https://instagram.com/ptrlrd
 [linkedin]: https://linkedin.com/in/ptrlrd
 [email]: inquiry@ptrlrd.com
-[roostergrin]: https://www.lucasfilm.com/
+[lucasfilm]: https://www.lucasfilm.com/
