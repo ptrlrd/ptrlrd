@@ -7,9 +7,9 @@
 - Cat dad to Quinn and Valor
 
 ## Work Life:
-- Learning more about Vue 3, Nuxt, and JavaScript
-- Front End Developer @ [Rooster Grin Media][roostergrin]
-- Some Skills I am using at Rooster Grin are HTML, CSS, JavaScript, Vue, Nuxt, and AWS
+- Learning a lot about Developer 
+- Associate Software Engineer @ [Lucasfilm][lucasfilm]
+- Some Skills I am using at Lucasfilm are Java, Kotlin, CI/CD, and some other fun stuff
 - Always available for collaboration or helping with Open Source Projects
 - 2022 Goals: Refactor existing projects and learn more about backend development & developer operations
 
@@ -30,4 +30,4 @@
 [instagram]: https://instagram.com/ptrlrd
 [linkedin]: https://linkedin.com/in/ptrlrd
 [email]: inquiry@ptrlrd.com
-[roostergrin]: https://www.roostergrin.com/
+[roostergrin]: https://www.lucasfilm.com/
