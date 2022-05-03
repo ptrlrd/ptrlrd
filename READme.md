@@ -9,7 +9,7 @@
 ## Work Life:
 - Learning a lot about Developer 
 - Associate Software Engineer @ [Lucasfilm][lucasfilm]
-- Some Skills I am using at Lucasfilm are Java, Kotlin, CI/CD, and some other fun stuff
+- Some Skills I am using and learning at Lucasfilm are Java, Kotlin, CI/CD, and some other fun stuff
 - Always available for collaboration or helping with Open Source Projects
 - 2022 Goals: Refactor existing projects and learn more about backend development & developer operations
 
