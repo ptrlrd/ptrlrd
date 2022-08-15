@@ -7,7 +7,7 @@
 - Cat dad to Quinn and Valor
 
 ## Work Life:
-- Learning a lot about Developer 
+- Learning a lot about DevOps 
 - Associate Software Engineer @ [Lucasfilm][lucasfilm]
 - Some Skills I am using and learning at Lucasfilm are Java, Kotlin, CI/CD, and some other fun stuff
 - Always available for collaboration or helping with Open Source Projects
