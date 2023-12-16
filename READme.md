@@ -3,21 +3,19 @@
 ## Personal Life:
 - Resides in the Bay Area
 - Happily married
+- Dad to the best boy
 - Mechanical Keyboard enthusiast 
 - Cat dad to Quinn and Valor
 
-## Work Life:
-- Learning a lot about DevOps 
-- Associate Software Engineer @ [Lucasfilm][lucasfilm]
-- Some Skills I am using and learning at Lucasfilm are Java, Kotlin, CI/CD, and some other fun stuff
+## Work Life
+- Associate Platform Engineer @ [ILM][ilm]
+- Currently learning Rust
 - Always available for collaboration or helping with Open Source Projects
-- 2022 Goals: Refactor existing projects and learn more about backend development & developer operations
-
 ### Connect with me:
 
 - [Personal Website][website]
-- [Twitter][twitter]
 - [LinkedIn][linkedin]
+- [Personal Site][personal_site]
 - Send me an email @ inquiry@ptrlrd.com
 
 ### 📕 Latest Blog Posts
@@ -30,4 +28,5 @@
 [instagram]: https://instagram.com/ptrlrd
 [linkedin]: https://linkedin.com/in/ptrlrd
 [email]: inquiry@ptrlrd.com
-[lucasfilm]: https://www.lucasfilm.com/
+[ilm]: https://www.ilm.com/
+[personal_site]: https://ptrlrd.com
